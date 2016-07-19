@@ -1,4 +1,4 @@
-Laravel 5 Web Artisan
+Laravel 5.2 Web Artisan
 =================
 
 Web artisan allows to run `artisan` console commands using a browser. Laravel port for [samdark/yii2-webshell](https://github.com/samdark/yii2-webshell).

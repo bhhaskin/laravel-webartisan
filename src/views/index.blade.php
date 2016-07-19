@@ -11,8 +11,8 @@
 
     <script>
     var WebArtisanEndpoint  = "{{ url('artisan/run') }}";
-    var exitUrl             = "{{ url() }}";
-    var greetings           = 'Laravel 5.0 Web Artisan';
+    var exitUrl             = "{{ url('') }}";
+    var greetings           = 'Laravel 5.2 Web Artisan';
     </script>
 </head>
 <body>
